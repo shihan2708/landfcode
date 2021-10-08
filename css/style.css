@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,800;1,400;1,500&display=swap');
+
+body{
+    font-family: 'Playfair Display', serif;
+    margin: auto;
+    padding: 0;
+   
+    background: #dadada;
+
+}
+
+.navbar-header {
+    background-color: #009FC7;
+    height: 90px;
+    margin: auto;
+    /* padding-bottom: 10px; */
+    padding-top: 18px;
+    padding-left: 55px;
+    color: white;
+    text-align: center;
+    /* align-items: center; */
+}
+
+.header-left a{
+	    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.header-left {
+    margin: 0px 0px 0px 40px;
+}
+
+/* navbar css properties */
+/* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+     background-color: #007694;
+  padding: 0px 40px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 56px;
+  text-decoration: none;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #009FC7;
+  color: white;
+}
+
+/* Style the "active" element to highlight the current page */
+.topnav a. {
+  background-color: #009fc7;
+  color: white;
+}
+
+/* Style the search box inside the navigation bar */
+.topnav input[type=text] {
+  float: right;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+
+  .topnav input[type=text] {
+    border: 1px solid #ccc;
+  }
+  .main-body {
+    margin: auto;
+    width: auto;
+    padding: 0px 57px;
+    
+    box-sizing: border-box;
+    min-height: 1012px;
+    height: auto !important;
+}
+.left {
+    float: left;
+    padding-left: 8px;
+    padding-top: 14px;
+    overflow: hidden;
+    height: auto;
+    width: 17%;
+    text-align: center;
+
+
+}
+.midle {
+    float: left;
+    border-left: 1px dashed #aaa;
+    border-right: 1px dashed #aaa;
+    border-bottom: 1px dashed;
+    border-top: 1px dashed;
+    /* border: dotted; */
+    background-color: #E9F2FE;
+    padding-bottom: 20px;
+    padding-top: 21px;
+    padding-left: 20px;
+    width: 64%;
+    min-height: 1012px;
+    height: auto !important;
+    height: 1012px;
+    margin: 2px 2px;
+}
+.right{
+	    float: right;
+    padding-top: 12px;
+    padding-right: 0px;
+    height: auto;
+    width: 16%;
+    text-align: center;
+}
+h3 {
+    display: inline-block;
+       background: #007694a8;
+    color: #fefefe;
+    margin: 0px;
+    padding: 0px 30px;
+    font-size: 18px;
+}
+
+
+.menu-section a {
+    text-decoration: none;
+    color: #009fc7;
+}
+.menu-section  a:hover {
+  background-color: #009FC7;
+  color: white;
+}
+
+ol{
+	list-style: none;
+}
+h2 {
+    margin: 0px !important;
+    background: #fcfbd9;
+    width: 97%;
+}
+p {
+    font-size: 15px;
+    margin: 5px;
+}
+h4 {
+    margin: 0px !important;
+}
+.link a{
+  padding: 0px 10px;
+  margin: 0px;
+}
+.orderlist ol{
+  list-style: disc;
+
+}
+span{
+
+}
+
+
+.note {
+    width: 771px;
+    background: antiquewhite;
+    /* height: 20px; */
+    /* margin: 14px; */
+    padding: 2px;
+    border-style: dashed;
+    border-width: 1px;
+    border-color: #007694;
+}
+.backtotop{
+  padding: 16px 16px;
+}
+
+
+
+.footer {
+    margin: 60px 0px 0px 0px;
+    width: auto;
+    height: 200px;
+    display: inline;
+    display: block;
+    background: #009fc7;
+    padding: 20px 57px;
+    color: white;
+    text-align: center;
+}
+.lowerfoot {
+    background: #007694;
+    height: 30px;
+    color: whitesmoke;
+}
+.lowerfoot p {
+    margin: 0px;
+    color: whitesmoke;
+    text-align: center;
+    padding: 4px;
+}
+hr {
+    background: #fffaf5;
+    width: 300px;
+    height: 2px;
+}
+h1 {
+    margin: 0px;
+}
+.author {
+    text-align: justify;
+    /* background: azure; */
+    color: #68666e;
+}
+.footer-logo {
+    /* background: #acabab; */
+    width: 324px;
+    margin-top: 21px;
+    margin: 20px auto;
+    text-decoration: none;
+}
+.header-left {
+    margin: 0px 0px 0px 40px;
+    color: #e6e6e6;
+}
